@@ -1,7 +1,8 @@
 /* *****************************************************************************
- *  Name:
- *  Date:
- *  Description:
+ *  Name: Anudeep Yakkala
+ *  Date:06/05/2019
+ *  Description: This class initilizes a board for the 8-Puzzle problem and 
+ allows users to find the possible moves from each board position. 
  **************************************************************************** */
 
 import java.util.LinkedList;
