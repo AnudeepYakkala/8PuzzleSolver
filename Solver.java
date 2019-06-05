@@ -1,7 +1,8 @@
 /* *****************************************************************************
- *  Name:
- *  Date:
- *  Description:
+ *  Name: Anudeep Yakkala   
+ *  Date: 06/05/2019
+ *  Description: This class takes a text file representation of an 8-Puzzle
+ board and prints the solution if the board state is solvable. 
  **************************************************************************** */
 
 import edu.princeton.cs.algs4.MinPQ;
